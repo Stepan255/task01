@@ -9,7 +9,7 @@ package task01;
 // b 3
 // a 10
 // Результат нужно сохранить в файле output.txt
-// 1000
+// 10^3=1000
 
 import java.io.FileReader;
 import java.io.FileWriter;
